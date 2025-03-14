@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @UY-Dana
+- 👋 Hi, I’m @UY-Dana  daniyaraskar.link
 👀 I’m interested in ... software development, UI design, artificial intelligence, and IoT. As an electromechanical engineer, I find inspiration in the intersection of these fields and how they can be leveraged to create innovative solutions.
 
 🌱 I’m currently learning advanced techniques in machine learning and exploring the latest trends in user interface design.
