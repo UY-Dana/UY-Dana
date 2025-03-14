@@ -1,11 +1,12 @@
-- 👋 Hi, I’m @UY-Dana  daniyaraskar.link
-👀 I’m interested in ... software development, UI design, artificial intelligence, and IoT. As an electromechanical engineer, I find inspiration in the intersection of these fields and how they can be leveraged to create innovative solutions.
-
-🌱 I’m currently learning advanced techniques in machine learning and exploring the latest trends in user interface design.
+👋 Hi, I’m @UY-Dana
+  
+👀 I’m interested in software development, UI design, artificial intelligence, and IoT. As an electromechanical engineer, I find inspiration in the intersection of these fields and how they can be leveraged to create innovative solutions.
 
 💞️ I’m looking to collaborate on ... tech projects that fuse AI and IoT to develop cutting-edge applications. I'm always open to collaborations that push the boundaries of technology and design.
 
 📫 How to reach me daniyar6200@gmail.com
+
+🌐 https://daniyaraskar.link
 
 😄 Pronouns: He/Him
 
